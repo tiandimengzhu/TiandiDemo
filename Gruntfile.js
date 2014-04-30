@@ -12,7 +12,7 @@ module.exports=function(grunt){
 			}
 		}
 	};
-	grunt.initConfig({config})
+	grunt.initConfig(config)
 
 	grunt.registerTask('server', ['connect']);
 };
