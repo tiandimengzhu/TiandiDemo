@@ -1,4 +1,4 @@
-{
+{  //npm项目配置文件
   "name": "TiandiDemo", //项目名称
   "version": "0.0.0",  //版本号
   "description": "TiandiMengzhuDemo", //项目描述
